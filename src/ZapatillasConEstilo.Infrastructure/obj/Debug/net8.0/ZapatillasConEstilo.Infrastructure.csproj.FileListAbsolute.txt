@@ -1,0 +1,11 @@
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/bin/Debug/net8.0/ZapatillasConEstilo.Infrastructure.deps.json
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/bin/Debug/net8.0/ZapatillasConEstilo.Infrastructure.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/bin/Debug/net8.0/ZapatillasConEstilo.Infrastructure.pdb
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.AssemblyInfoInputs.cache
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.AssemblyInfo.cs
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.csproj.CoreCompileInputs.cache
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/refint/ZapatillasConEstilo.Infrastructure.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.pdb
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ref/ZapatillasConEstilo.Infrastructure.dll

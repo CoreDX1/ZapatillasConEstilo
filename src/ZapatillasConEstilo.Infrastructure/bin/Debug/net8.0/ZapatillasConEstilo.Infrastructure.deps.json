@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZapatillasConEstilo.Infrastructure/1.0.0": {
+        "runtime": {
+          "ZapatillasConEstilo.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZapatillasConEstilo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

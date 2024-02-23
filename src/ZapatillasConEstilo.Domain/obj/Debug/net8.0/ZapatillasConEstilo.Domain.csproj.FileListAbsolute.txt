@@ -1,0 +1,11 @@
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/bin/Debug/net8.0/ZapatillasConEstilo.Domain.deps.json
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/bin/Debug/net8.0/ZapatillasConEstilo.Domain.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/bin/Debug/net8.0/ZapatillasConEstilo.Domain.pdb
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/ZapatillasConEstilo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/ZapatillasConEstilo.Domain.AssemblyInfoInputs.cache
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/ZapatillasConEstilo.Domain.AssemblyInfo.cs
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/ZapatillasConEstilo.Domain.csproj.CoreCompileInputs.cache
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/ZapatillasConEstilo.Domain.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/refint/ZapatillasConEstilo.Domain.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/ZapatillasConEstilo.Domain.pdb
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Domain/obj/Debug/net8.0/ref/ZapatillasConEstilo.Domain.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DE162021-6032-4C66-81A1-5B8BFF639DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapatillasConEstilo.Web", "src\ZapatillasConEstilo.Web\ZapatillasConEstilo.Web.csproj", "{8112BC8D-47E5-42F6-B395-347FD40B0910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapatillasConEstilo.Infrastructure", "src\ZapatillasConEstilo.Infrastructure\ZapatillasConEstilo.Infrastructure.csproj", "{C16B85F1-514B-4697-BA46-4493F585D4FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapatillasConEstilo.Application", "src\ZapatillasConEstilo.Application\ZapatillasConEstilo.Application.csproj", "{787AF3D9-7E98-4B48-A180-79899C3639A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapatillasConEstilo.Domain", "src\ZapatillasConEstilo.Domain\ZapatillasConEstilo.Domain.csproj", "{A10F1410-8B7A-42DD-BE8F-3C595CF85E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapatillasConEstilo.Utilities", "src\ZapatillasConEstilo.Utilities\ZapatillasConEstilo.Utilities.csproj", "{91A74551-D189-4C71-94DB-20AAC1544BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8112BC8D-47E5-42F6-B395-347FD40B0910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8112BC8D-47E5-42F6-B395-347FD40B0910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8112BC8D-47E5-42F6-B395-347FD40B0910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8112BC8D-47E5-42F6-B395-347FD40B0910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16B85F1-514B-4697-BA46-4493F585D4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16B85F1-514B-4697-BA46-4493F585D4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16B85F1-514B-4697-BA46-4493F585D4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16B85F1-514B-4697-BA46-4493F585D4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787AF3D9-7E98-4B48-A180-79899C3639A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787AF3D9-7E98-4B48-A180-79899C3639A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787AF3D9-7E98-4B48-A180-79899C3639A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787AF3D9-7E98-4B48-A180-79899C3639A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10F1410-8B7A-42DD-BE8F-3C595CF85E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10F1410-8B7A-42DD-BE8F-3C595CF85E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10F1410-8B7A-42DD-BE8F-3C595CF85E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10F1410-8B7A-42DD-BE8F-3C595CF85E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A74551-D189-4C71-94DB-20AAC1544BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A74551-D189-4C71-94DB-20AAC1544BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A74551-D189-4C71-94DB-20AAC1544BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A74551-D189-4C71-94DB-20AAC1544BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8112BC8D-47E5-42F6-B395-347FD40B0910} = {DE162021-6032-4C66-81A1-5B8BFF639DC4}
+		{C16B85F1-514B-4697-BA46-4493F585D4FF} = {DE162021-6032-4C66-81A1-5B8BFF639DC4}
+		{787AF3D9-7E98-4B48-A180-79899C3639A4} = {DE162021-6032-4C66-81A1-5B8BFF639DC4}
+		{A10F1410-8B7A-42DD-BE8F-3C595CF85E8F} = {DE162021-6032-4C66-81A1-5B8BFF639DC4}
+		{91A74551-D189-4C71-94DB-20AAC1544BAF} = {DE162021-6032-4C66-81A1-5B8BFF639DC4}
+	EndGlobalSection
+EndGlobal
