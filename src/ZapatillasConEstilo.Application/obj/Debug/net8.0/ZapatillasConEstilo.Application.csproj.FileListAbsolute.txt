@@ -10,3 +10,7 @@
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/ZapatillasConEstilo.Application.pdb
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/ref/ZapatillasConEstilo.Application.dll
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/ZapatillasConEstilo.Application.sourcelink.json
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/bin/Debug/net8.0/ZapatillasConEstilo.Domain.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/bin/Debug/net8.0/ZapatillasConEstilo.Domain.pdb
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/ZapatillasConEstilo.Application.csproj.AssemblyReference.cache
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/Zapatill.D53F9E59.Up2Date

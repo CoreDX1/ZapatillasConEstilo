@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ZapatillasConEstilo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ZapatillasConEstilo.Application": "1.0.0"
+        },
         "runtime": {
           "ZapatillasConEstilo.Infrastructure.dll": {}
+        }
+      },
+      "ZapatillasConEstilo.Application/1.0.0": {
+        "dependencies": {
+          "ZapatillasConEstilo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ZapatillasConEstilo.Application.dll": {}
+        }
+      },
+      "ZapatillasConEstilo.Domain/1.0.0": {
+        "runtime": {
+          "ZapatillasConEstilo.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ZapatillasConEstilo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZapatillasConEstilo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZapatillasConEstilo.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

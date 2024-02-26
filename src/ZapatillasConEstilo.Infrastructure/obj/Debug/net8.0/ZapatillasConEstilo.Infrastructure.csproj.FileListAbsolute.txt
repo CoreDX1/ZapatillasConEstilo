@@ -10,3 +10,9 @@
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.pdb
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ref/ZapatillasConEstilo.Infrastructure.dll
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.sourcelink.json
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/bin/Debug/net8.0/ZapatillasConEstilo.Application.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/bin/Debug/net8.0/ZapatillasConEstilo.Domain.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/bin/Debug/net8.0/ZapatillasConEstilo.Application.pdb
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/bin/Debug/net8.0/ZapatillasConEstilo.Domain.pdb
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/ZapatillasConEstilo.Infrastructure.csproj.AssemblyReference.cache
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Infrastructure/obj/Debug/net8.0/Zapatill.21275688.Up2Date

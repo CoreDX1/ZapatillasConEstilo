@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ZapatillasConEstilo.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ZapatillasConEstilo.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ZapatillasConEstilo.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZapatillasConEstilo.Application.dll": {}
+        }
+      },
+      "ZapatillasConEstilo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ZapatillasConEstilo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZapatillasConEstilo.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ZapatillasConEstilo.Application/1.0.0": {
+      "type": "project",
+      "path": "../ZapatillasConEstilo.Application/ZapatillasConEstilo.Application.csproj",
+      "msbuildProject": "../ZapatillasConEstilo.Application/ZapatillasConEstilo.Application.csproj"
+    },
+    "ZapatillasConEstilo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ZapatillasConEstilo.Domain/ZapatillasConEstilo.Domain.csproj",
+      "msbuildProject": "../ZapatillasConEstilo.Domain/ZapatillasConEstilo.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ZapatillasConEstilo.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/christian/.nuget/packages/": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/ZapatillasConEstilo.Application.csproj": {
+              "projectPath": "/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/ZapatillasConEstilo.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
