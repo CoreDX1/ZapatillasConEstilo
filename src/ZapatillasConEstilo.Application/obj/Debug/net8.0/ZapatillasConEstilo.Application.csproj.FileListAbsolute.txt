@@ -9,3 +9,4 @@
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/refint/ZapatillasConEstilo.Application.dll
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/ZapatillasConEstilo.Application.pdb
 /home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/ref/ZapatillasConEstilo.Application.dll
+/home/christian/Desktop/Project/ZapatillasConEstilo/src/ZapatillasConEstilo.Application/obj/Debug/net8.0/ZapatillasConEstilo.Application.sourcelink.json
