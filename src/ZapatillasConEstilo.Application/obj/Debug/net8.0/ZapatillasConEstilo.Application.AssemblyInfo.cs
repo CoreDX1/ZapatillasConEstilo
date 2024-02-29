@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZapatillasConEstilo.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078d25835acf9d1ac00b59c3a65a2ef9e2ce85e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21731e4787e14c0bfbaa071a89613c19702e9554")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZapatillasConEstilo.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZapatillasConEstilo.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
