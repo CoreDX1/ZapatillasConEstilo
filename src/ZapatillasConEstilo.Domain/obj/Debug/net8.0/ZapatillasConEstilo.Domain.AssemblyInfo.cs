@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZapatillasConEstilo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c776c3c084575c1e78feb113d89423d1c5e24b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a11450031d0da23669b6399c67c6cad9bbe8f7f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZapatillasConEstilo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZapatillasConEstilo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
